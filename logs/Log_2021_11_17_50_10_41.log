@@ -1,0 +1,5 @@
+2021-11-17 10:50:44,904  INFO [main] BigSmall:59 - Browser has been luanched
+2021-11-17 10:50:50,218  INFO [main] BigSmall:64 - url hited
+2021-11-17 10:50:53,361  INFO [main] BigSmall:168 - clicked on christmas menu
+2021-11-17 10:50:59,479  INFO [main] BigSmall:174 - christmas gift added in cart
+2021-11-17 10:51:12,193  INFO [main] BigSmall:256 - clicked on wishlist menu

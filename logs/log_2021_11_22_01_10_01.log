@@ -1,0 +1,22 @@
+2021-11-22 22:01:01,491  INFO [main] BigSmall:56 - browser is going to launch
+2021-11-22 22:01:14,493  INFO [main] BigSmall:58 - Browser has been luanched
+2021-11-22 22:01:39,917  INFO [main] BigSmall:63 - url hited
+2021-11-22 22:01:59,308  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-22 22:01:59,619  INFO [main] BigSmall:91 -  entered
+2021-11-22 22:01:59,867  INFO [main] BigSmall:94 -  entered
+2021-11-22 22:02:10,762  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-22 22:02:23,094  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-22 22:02:23,643  INFO [main] BigSmall:91 - defenceaspirants87@gmail.com entered
+2021-11-22 22:02:23,817  INFO [main] BigSmall:94 - gguytuy entered
+2021-11-22 22:02:27,075  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-22 22:02:31,586  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-22 22:02:31,954  INFO [main] BigSmall:91 - vrushualate1008@gmail.com entered
+2021-11-22 22:02:32,132  INFO [main] BigSmall:94 - Vrush@123 entered
+2021-11-22 22:02:32,538  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-22 22:02:48,072  INFO [main] BigSmall:115 - clicked on Persionaized Gift Menu
+2021-11-22 22:03:32,780  INFO [main] BigSmall:127 - persionalized gift menu's item selected
+2021-11-22 22:03:43,076  INFO [main] BigSmall:142 - diary
+2021-11-22 22:03:56,697  INFO [main] BigSmall:145 - product name has been sent to search box
+2021-11-22 22:03:57,293  INFO [main] BigSmall:149 - list appeared of searched product
+2021-11-22 22:04:14,822  INFO [main] BigSmall:162 - clicked on christmas menu
+2021-11-22 22:04:36,291  INFO [main] BigSmall:168 - christmas gift added in cart

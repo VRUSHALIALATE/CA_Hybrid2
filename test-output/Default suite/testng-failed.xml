@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.runner.BigSmall">
+        <methods>
+          <include name="contactUsTesting"/>
+          <include name="homePageLanding"/>
+          <include name="persionalizedGiftMenuTesting"/>
+          <include name="AboutUsTesting"/>
+          <include name="AllOfItTesting"/>
+          <include name="ChristmasGiftMenuTesting"/>
+          <include name="GitCartTesting"/>
+          <include name="searchingBoxTesting"/>
+          <include name="signInTesting" invocation-numbers="0 1 2"/>
+          <include name="WishListTesting"/>
+          <include name="ShopByCategoryTesting"/>
+        </methods>
+      </class> <!-- com.mindtree.runner.BigSmall -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

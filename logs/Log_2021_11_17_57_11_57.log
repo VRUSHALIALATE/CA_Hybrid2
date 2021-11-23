@@ -1,0 +1,19 @@
+2021-11-17 11:58:02,005  INFO [main] BigSmall:59 - Browser has been luanched
+2021-11-17 11:58:07,881  INFO [main] BigSmall:64 - url hited
+2021-11-17 11:58:11,483  INFO [main] BigSmall:168 - clicked on christmas menu
+2021-11-17 11:58:16,678  INFO [main] BigSmall:174 - christmas gift added in cart
+2021-11-17 11:58:22,833  INFO [main] BigSmall:191 - pop up appeared
+2021-11-17 11:58:34,594  INFO [main] BigSmall:202 - christmas gift menu's item available in shopping cart
+2021-11-17 11:58:38,804  INFO [main] BigSmall:215 - clicked on shop By catagory menu
+2021-11-17 11:58:46,961  INFO [main] BigSmall:224 - clicked on add to wish
+2021-11-17 11:58:48,036  INFO [main] BigSmall:230 - item has been added in wish list
+2021-11-17 11:58:51,252  INFO [main] BigSmall:247 - clicked on shop By all of it menu
+2021-11-17 11:58:54,422  INFO [main] BigSmall:251 - Title under All ot It is verified
+2021-11-17 11:58:54,525  INFO [main] BigSmall:264 - clicked on wishlist menu
+2021-11-17 11:59:08,468  INFO [main] BigSmall:292 - clicked on gift card button
+2021-11-17 11:59:08,709  INFO [main] BigSmall:297 - gift card feature is working
+2021-11-17 11:59:11,923  INFO [main] BigSmall:314 - clicked on about us menu
+2021-11-17 11:59:12,263  INFO [main] BigSmall:319 - getting all info about website
+2021-11-17 11:59:14,872  INFO [main] BigSmall:336 - clicked on contact us
+2021-11-17 11:59:15,806  INFO [main] BigSmall:341 - all info added
+2021-11-17 11:59:15,862  INFO [main] BigSmall:348 - thank you for contacting us

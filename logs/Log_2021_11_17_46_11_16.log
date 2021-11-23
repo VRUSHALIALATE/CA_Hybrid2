@@ -1,0 +1,10 @@
+2021-11-17 11:46:20,456  INFO [main] BigSmall:59 - Browser has been luanched
+2021-11-17 11:46:26,226  INFO [main] BigSmall:64 - url hited
+2021-11-17 11:46:26,371  INFO [main] BigSmall:234 - clicked on wishlist menu
+2021-11-17 11:46:34,660  INFO [main] BigSmall:258 - clicked on gift card button
+2021-11-17 11:46:34,977  INFO [main] BigSmall:263 - gift card feature is working
+2021-11-17 11:46:38,033  INFO [main] BigSmall:280 - clicked on about us menu
+2021-11-17 11:46:38,250  INFO [main] BigSmall:285 - getting all info about website
+2021-11-17 11:46:43,341  INFO [main] BigSmall:302 - clicked on contact us
+2021-11-17 11:46:44,451  INFO [main] BigSmall:307 - all info added
+2021-11-17 11:46:44,528  INFO [main] BigSmall:314 - thank you for contacting us

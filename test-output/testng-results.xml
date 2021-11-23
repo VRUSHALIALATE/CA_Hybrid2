@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="13" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="400514" started-at="2021-11-22T17:01:16 IST" finished-at="2021-11-22T17:07:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="400514" started-at="2021-11-22T17:01:16 IST" finished-at="2021-11-22T17:07:57 IST">
+      <class name="com.mindtree.runner.BigSmall">
+        <test-method status="PASS" signature="homePageLanding()[pri:1, instance:com.mindtree.runner.BigSmall@25bbf683]" name="homePageLanding" duration-ms="54749" started-at="2021-11-22T17:01:17 IST" finished-at="2021-11-22T17:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLanding -->
+        <test-method status="PASS" signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@25bbf683]" name="signInTesting" duration-ms="38405" started-at="2021-11-22T17:02:13 IST" data-provider="dataSuplier" finished-at="2021-11-22T17:02:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method status="PASS" signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@25bbf683]" name="signInTesting" duration-ms="24448" started-at="2021-11-22T17:02:52 IST" data-provider="dataSuplier" finished-at="2021-11-22T17:03:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[defenceaspirants87@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gguytuy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method status="PASS" signature="signInTesting(java.lang.String,java.lang.String)[pri:2, instance:com.mindtree.runner.BigSmall@25bbf683]" name="signInTesting" duration-ms="20860" started-at="2021-11-22T17:03:17 IST" data-provider="dataSuplier" finished-at="2021-11-22T17:03:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vrushualate1008@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vrush@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTesting -->
+        <test-method status="PASS" signature="persionalizedGiftMenuTesting()[pri:3, instance:com.mindtree.runner.BigSmall@25bbf683]" name="persionalizedGiftMenuTesting" duration-ms="63423" started-at="2021-11-22T17:03:38 IST" finished-at="2021-11-22T17:04:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- persionalizedGiftMenuTesting -->
+        <test-method status="FAIL" signature="searchingBoxTesting()[pri:4, instance:com.mindtree.runner.BigSmall@25bbf683]" name="searchingBoxTesting" duration-ms="23645" started-at="2021-11-22T17:04:42 IST" finished-at="2021-11-22T17:05:05 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.mindtree.runner.BigSmall.searchingBoxTesting(BigSmall.java:151)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingBoxTesting -->
+        <test-method status="PASS" signature="ChristmasGiftMenuTesting()[pri:5, instance:com.mindtree.runner.BigSmall@25bbf683]" name="ChristmasGiftMenuTesting" duration-ms="62922" started-at="2021-11-22T17:05:06 IST" finished-at="2021-11-22T17:06:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChristmasGiftMenuTesting -->
+        <test-method status="FAIL" signature="ShopByCategoryTesting()[pri:6, instance:com.mindtree.runner.BigSmall@25bbf683]" name="ShopByCategoryTesting" duration-ms="39712" started-at="2021-11-22T17:06:09 IST" finished-at="2021-11-22T17:06:48 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.mindtree.runner.BigSmall.ShopByCategoryTesting(BigSmall.java:218)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopByCategoryTesting -->
+        <test-method status="PASS" signature="AllOfItTesting()[pri:7, instance:com.mindtree.runner.BigSmall@25bbf683]" name="AllOfItTesting" duration-ms="25404" started-at="2021-11-22T17:06:49 IST" finished-at="2021-11-22T17:07:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllOfItTesting -->
+        <test-method status="PASS" signature="WishListTesting()[pri:8, instance:com.mindtree.runner.BigSmall@25bbf683]" name="WishListTesting" duration-ms="17804" started-at="2021-11-22T17:07:15 IST" finished-at="2021-11-22T17:07:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishListTesting -->
+        <test-method status="PASS" signature="GitCartTesting()[pri:9, instance:com.mindtree.runner.BigSmall@25bbf683]" name="GitCartTesting" duration-ms="8167" started-at="2021-11-22T17:07:33 IST" finished-at="2021-11-22T17:07:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GitCartTesting -->
+        <test-method status="PASS" signature="AboutUsTesting()[pri:10, instance:com.mindtree.runner.BigSmall@25bbf683]" name="AboutUsTesting" duration-ms="7354" started-at="2021-11-22T17:07:41 IST" finished-at="2021-11-22T17:07:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUsTesting -->
+        <test-method status="PASS" signature="contactUsTesting()[pri:11, instance:com.mindtree.runner.BigSmall@25bbf683]" name="contactUsTesting" duration-ms="7968" started-at="2021-11-22T17:07:49 IST" finished-at="2021-11-22T17:07:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsTesting -->
+      </class> <!-- com.mindtree.runner.BigSmall -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

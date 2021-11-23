@@ -1,0 +1,36 @@
+2021-11-18 11:37:19,784  INFO [main] BigSmall:58 - Browser has been luanched
+2021-11-18 11:37:58,611  INFO [main] BigSmall:63 - url hited
+2021-11-18 11:38:09,348  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-18 11:38:09,545  INFO [main] BigSmall:91 -  entered
+2021-11-18 11:38:09,731  INFO [main] BigSmall:94 -  entered
+2021-11-18 11:38:18,286  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-18 11:38:24,015  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-18 11:38:24,488  INFO [main] BigSmall:91 - defenceaspirants87@gmail.com entered
+2021-11-18 11:38:24,766  INFO [main] BigSmall:94 - gguytuy entered
+2021-11-18 11:38:29,542  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-18 11:38:37,766  INFO [main] BigSmall:85 - clicked on sign button
+2021-11-18 11:38:38,171  INFO [main] BigSmall:91 - rathorb87@gmail.com entered
+2021-11-18 11:38:38,392  INFO [main] BigSmall:94 - Bigsmall@123 entered
+2021-11-18 11:38:45,505  INFO [main] BigSmall:96 - clicked on summit button
+2021-11-18 11:39:11,027  INFO [main] BigSmall:115 - clicked on Persionaized Gift Menu
+2021-11-18 11:40:06,014  INFO [main] BigSmall:127 - persionalized gift menu's item selected
+2021-11-18 11:40:29,323  INFO [main] BigSmall:145 - product name has been sent to search box
+2021-11-18 11:40:29,621  INFO [main] BigSmall:149 - list appeared of searched product
+2021-11-18 11:40:43,347  INFO [main] BigSmall:162 - clicked on christmas menu
+2021-11-18 11:41:12,454  INFO [main] BigSmall:168 - christmas gift added in cart
+2021-11-18 11:41:18,421  INFO [main] BigSmall:180 - pop up appeared
+2021-11-18 11:41:41,861  INFO [main] BigSmall:190 - christmas gift menu's item available in shopping cart
+2021-11-18 11:41:49,467  INFO [main] BigSmall:202 - clicked on shop By catagory menu
+2021-11-18 11:42:11,139  INFO [main] BigSmall:211 - clicked on add to wish
+2021-11-18 11:42:16,196  INFO [main] BigSmall:216 - item has been added in wish list
+2021-11-18 11:42:20,258  INFO [main] BigSmall:229 - clicked on shop By all of it menu
+2021-11-18 11:42:30,895  INFO [main] BigSmall:233 - Title under All ot It is verified
+2021-11-18 11:42:37,957  INFO [main] BigSmall:243 - clicked on wishlist menu
+2021-11-18 11:42:44,321  INFO [main] BigSmall:253 - products are available in wish list
+2021-11-18 11:42:50,508  INFO [main] BigSmall:265 - clicked on gift card button
+2021-11-18 11:42:50,771  INFO [main] BigSmall:269 - gift card feature is working
+2021-11-18 11:42:56,457  INFO [main] BigSmall:281 - clicked on about us menu
+2021-11-18 11:42:56,701  INFO [main] BigSmall:285 - getting all info about website
+2021-11-18 11:42:59,334  INFO [main] BigSmall:298 - clicked on contact us
+2021-11-18 11:43:00,339  INFO [main] BigSmall:303 - all info added
+2021-11-18 11:43:00,386  INFO [main] BigSmall:309 - thank you for contacting us
